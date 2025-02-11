@@ -14,7 +14,7 @@ class Claim {
     const id = claims.length + 1;
     const newClaim = new Claim(id, policyholderId, policyId, claimAmount, 'pending');
     claims.push(newClaim);
-    return newClaim;``
+    return newClaim;
   }
 
   // Get all claims

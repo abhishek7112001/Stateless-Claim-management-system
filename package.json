@@ -1,5 +1,5 @@
 {
-  "name": "claim_management_system",
+  "name": "stateless_claim_management_system",
   "version": "1.0.0",
   "description": "This a project called claim management system and is designed to learn MERN stack from scratch",
   "main": "index.js",
